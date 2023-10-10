@@ -1,2 +1,3 @@
-# data-structures
-Perosnal repository containing my own implementations of basic data structures, like array, linked list, binary tree, etc...
+# Data Structures
+
+The objective of that repository is to save my experiences, code and personal attempts to implement data structures in as many different programming languages as I can.
