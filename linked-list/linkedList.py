@@ -46,4 +46,5 @@ if __name__ == "__main__":
   list.insert(20)
   list.insert(1)
   list.delete(20)
+  list.findTail()
   list.list()
